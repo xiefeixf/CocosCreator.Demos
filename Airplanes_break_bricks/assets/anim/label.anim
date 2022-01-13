@@ -1,0 +1,91 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "label",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.8333333333333334,
+  "sample": 30,
+  "speed": 0.2,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "New Label": {
+        "comps": {
+          "cc.Label": {
+            "string": [
+              {
+                "frame": 0,
+                "value": "10"
+              },
+              {
+                "frame": 0.06666666666666667,
+                "value": "9"
+              },
+              {
+                "frame": 0.13333333333333333,
+                "value": "8"
+              },
+              {
+                "frame": 0.2,
+                "value": "7"
+              },
+              {
+                "frame": 0.26666666666666666,
+                "value": "6"
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": "5"
+              },
+              {
+                "frame": 0.4,
+                "value": "4"
+              },
+              {
+                "frame": 0.4666666666666667,
+                "value": "3"
+              },
+              {
+                "frame": 0.5333333333333333,
+                "value": "2"
+              },
+              {
+                "frame": 0.6,
+                "value": "1"
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": "0"
+              },
+              {
+                "frame": 0.7333333333333333,
+                "value": "10"
+              },
+              {
+                "frame": 0.8333333333333334,
+                "value": "10"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "props": {
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        },
+        {
+          "frame": 0.7333333333333333,
+          "value": 0
+        },
+        {
+          "frame": 0.8333333333333334,
+          "value": 255
+        }
+      ]
+    }
+  },
+  "events": []
+}

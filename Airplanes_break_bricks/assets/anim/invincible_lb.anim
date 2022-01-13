@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "invincible_lb",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 8,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Label": {
+        "string": [
+          {
+            "frame": 0,
+            "value": "无敌剩余时间：8"
+          },
+          {
+            "frame": 1,
+            "value": "无敌剩余时间：7"
+          },
+          {
+            "frame": 2,
+            "value": "无敌剩余时间：6"
+          },
+          {
+            "frame": 3,
+            "value": "无敌剩余时间：5"
+          },
+          {
+            "frame": 4,
+            "value": "无敌剩余时间：4"
+          },
+          {
+            "frame": 5,
+            "value": "无敌剩余时间：3"
+          },
+          {
+            "frame": 6,
+            "value": "无敌剩余时间：2"
+          },
+          {
+            "frame": 7,
+            "value": "无敌剩余时间：1"
+          },
+          {
+            "frame": 8,
+            "value": "无敌剩余时间：0"
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
